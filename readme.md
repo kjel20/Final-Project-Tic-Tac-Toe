@@ -17,7 +17,8 @@ A command-line Tic-Tac-Toe game written in Python, featuring singleplayer (vs. c
 ## Requirements
 
 - Python 3.x
-- No external dependencies — uses only the Python standard library (`json`, `random`, `abc`)
+- Uses only the Python standard library for the actual code (`json`, `random`, `abc`)
+- Pytest required for testing purposes
 
 ---
 
