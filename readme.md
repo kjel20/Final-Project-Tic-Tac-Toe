@@ -28,6 +28,7 @@ A command-line Tic-Tac-Toe game written in Python, featuring singleplayer (vs. c
 python final_project.py
 ```
 
+This should be run by opening git bash in the project folder.
 On launch, you'll be prompted to start a new game, load a saved game, or exit.
 
 ---
@@ -80,6 +81,7 @@ The game saves to `savegame.json` automatically after every move. To resume, sel
 python -m pytest test_final_project.py
 ```
 
+Run this by opening git bash in the project folder as well.
 The test suite uses `pytest` and covers the following:
 
 **Board**
